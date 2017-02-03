@@ -1,2 +1,5 @@
 # CSCI3308_LAB3
-Repository dedicated to completing Lab 3 of CSCI3308 - Software Methods and Tools
+Author: Karros Huang
+Title: CSCI3308 Lab 3
+Description: Repository dedicated to completing Lab 3 of CSCI3308 - Software Methods and Tools
+
